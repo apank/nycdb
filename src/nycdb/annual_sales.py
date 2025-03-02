@@ -37,7 +37,7 @@ class AnnualSales:
 
     def __iter__(self):
         for row in self.iter_rows():
-            if row[0] in ['1', '2', '3', '4', '5']:
+            if str(row[0]) in ['1', '2', '3', '4', '5']:
                 yield dict(zip(headers, row + [self.year]))
 
     def iter_rows(self):

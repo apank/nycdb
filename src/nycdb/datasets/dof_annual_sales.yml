@@ -1,6 +1,66 @@
 ---
 files:
   -
+    url: https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_manhattan.xlsx
+    dest: dof_annual_sales_2024_manhattan.xlsx
+  -
+    url: https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_bronx.xlsx
+    dest: dof_annual_sales_2024_bronx.xlsx
+  -
+    url: https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_brooklyn.xlsx
+    dest: dof_annual_sales_2024_brooklyn.xlsx
+  -
+    url: https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_queens.xlsx
+    dest: dof_annual_sales_2024_queens.xlsx
+  -
+    url: https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_statenisland.xlsx
+    dest: dof_annual_sales_2024_statenisland.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2023/2023_manhattan.xlsx
+    dest: dof_annual_sales_2023_manhattan.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2023/2023_bronx.xlsx
+    dest: dof_annual_sales_2023_bronx.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2023/2023_brooklyn.xlsx
+    dest: dof_annual_sales_2023_brooklyn.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2023/2023_queens.xlsx
+    dest: dof_annual_sales_2023_queens.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2023/2023_staten_island.xlsx
+    dest: dof_annual_sales_2023_staten_island.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2022/2022_manhattan.xlsx
+    dest: dof_annual_sales_2022_manhattan.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2022/2022_bronx.xlsx
+    dest: dof_annual_sales_2022_bronx.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2022/2022_brooklyn.xlsx
+    dest: dof_annual_sales_2022_brooklyn.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2022/2022_queens.xlsx
+    dest: dof_annual_sales_2022_queens.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2022/2022_staten_island.xlsx
+    dest: dof_annual_sales_2022_staten_island.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2021/2021_manhattan.xlsx
+    dest: dof_annual_sales_2021_manhattan.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2021/2021_bronx.xlsx
+    dest: dof_annual_sales_2021_bronx.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2021/2021_brooklyn.xlsx
+    dest: dof_annual_sales_2021_brooklyn.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2021/2021_queens.xlsx
+    dest: dof_annual_sales_2021_queens.xlsx
+  -
+    url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2021/2021_staten_island.xlsx
+    dest: dof_annual_sales_2021_staten_island.xlsx
+  -
     url: https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2020/2020_manhattan.xlsx
     dest: dof_annual_sales_2020_manhattan.xlsx
   -
